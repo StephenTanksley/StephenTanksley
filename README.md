@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developing a browser-based synthesizer!
+- 🌱 I’m currently learning audio DSP in Python!
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: stephen.tanksley@gmail.com or @StephenTanksley on Twitter.
+- 😄 Pronouns: He/Him/His
+
 <!--
 **StephenTanksley/StephenTanksley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
