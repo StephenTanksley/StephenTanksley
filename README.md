@@ -2,10 +2,10 @@
 
 My name is Stephen. I'm a full stack JS/Python developer with an eye towards learning data science, audio DSP, and ML! 
 
-- 🔭 I’m currently working on developing a browser-based synthesizer!
-- 🌱 I’m currently learning audio DSP in Python!
-- 📫 How to reach me: stephen.tanksley@gmail.com or @StephenTanksley on Twitter.
-- 😄 Pronouns: He/Him/His
+- 🔭  I’m currently working on developing a browser-based synthesizer!
+- 🌱  I’m currently learning audio DSP in Python!
+- 📫  How to reach me: stephen.tanksley@gmail.com or @StephenTanksley on Twitter.
+- 😄  Pronouns: He/Him/His
 
 
 <!--
