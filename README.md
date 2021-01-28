@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Stephen. I'm a full stack JS/Python developer with an eye towards learning data science, audio DSP, and ML! 
+My name is Stephen. I'm a full stack Python/JavaScript developer with an eye towards learning data science, audio DSP, and ML! 
 
 - 🔭 -> I’m currently working on developing a browser-based synthesizer!
 - 🌱 -> I’m currently learning audio DSP in Python!
