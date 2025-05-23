@@ -2,9 +2,9 @@
 
 My name is Stephen. I'm a full stack Python/SQL/Rust developer with an eye towards learning data science, ML and data engineering! 
 
-- 🔭 -> I’m currently building a public bike share data project utilizing Python, PostgreSQL, FastAPI, React and Mapbox!
+- 🔭 -> I’m currently building a public bike share data project utilizing Python, SQL, PostgreSQL, Streamlit, Puppeteer and Mapbox!
 - 🌱 -> I’m currently learning Rust.
-- 📫 -> How to reach me: stephen.tanksley@gmail.com or @StephenTanksley on Twitter.
+- 📫 -> How to reach me: stephen.tanksley@gmail.com
 - 😄 -> Pronouns: He/Him/His
 - ⚡ Fun fact: Before I got into software engineering, I sang opera and wrote a lot of music.
 
