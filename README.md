@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![A happy dog Photoshopped into the middle of the famous painting The Creation of Adam](https://media.discordapp.net/attachments/1197631810176299079/1439464164086120579/image.png?ex=691a9cf8&is=69194b78&hm=2730b1a94177f2ed6eb1e163ba4159706de6bfef160b6002c7dab6463570cca7&=&format=webp&quality=lossless&width=972&height=257 "smiling dog")
+
 My name is Stephen. I'm a full stack Python/SQL/Rust developer with an eye towards learning data science, ML and data engineering! 
 
 - 🔭 -> I’m currently building a public bike share data project utilizing Python, SQL, PostgreSQL, Kafka, Flink, Streamlit, Playwright and Mapbox!
