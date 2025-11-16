@@ -4,7 +4,8 @@
 
 My name is Stephen. I'm a full stack Python/SQL/Rust developer with an eye towards learning data science, ML and data engineering! 
 
-- 🔭 -> I’m currently building a public bike share data project utilizing Python, SQL, PostgreSQL, Kafka, Flink, Streamlit, Playwright and Mapbox!
+- 🔭 -> I am currently building a new project to visualize news headlines and get a bird's eye perspective on the news using Python, SQL, the BlueSky.social API, NLTK, Cognee and a Gemma2b model self-hosted on a customized Raspberri Pi 5!
+- 🔭 -> I recently built two public bike share data projects utilizing Python, SQL, PostgreSQL, Kafka, Streamlit, Playwright and Mapbox!
 - 🌱 -> I’m currently learning Rust, Kafka, Flink and Snowflake.
 - 🤔 I’m looking for help with debugging Flink errors and hitting the ground running with Snowflake and dbt.
 - 📫 -> How to reach me: stephen.tanksley@gmail.com
