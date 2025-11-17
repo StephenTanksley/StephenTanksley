@@ -2,7 +2,7 @@
 
 ![A happy dog Photoshopped into the middle of the famous painting The Creation of Adam](https://media.discordapp.net/attachments/1197631810176299079/1439464164086120579/image.png?ex=691a9cf8&is=69194b78&hm=2730b1a94177f2ed6eb1e163ba4159706de6bfef160b6002c7dab6463570cca7&=&format=webp&quality=lossless&width=972&height=257 "smiling dog")
 
-My name is Stephen. I'm a full stack Python/SQL/Rust developer with an eye towards learning data science, ML and data engineering! 
+My name is Stephen. I'm a full stack Python/SQL (and aspiring Rust) engineer with an eye towards learning data science, ML and data engineering! 
 
 - 🔭 -> I am currently building a new project to visualize news headlines and get a bird's eye perspective on the news using Python, SQL, the BlueSky.social API, NLTK, Cognee and a Gemma2b model self-hosted on a customized Raspberri Pi 5!
 - 🔭 -> I recently built two public bike share data projects utilizing Python, SQL, PostgreSQL, Kafka, Streamlit, Playwright and Mapbox!
